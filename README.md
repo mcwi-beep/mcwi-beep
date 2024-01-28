@@ -1,14 +1,14 @@
 <img src='https://camo.githubusercontent.com/700f2ecd2ca652d02ff0705ebdf8c4ee71dfbbe0d67fc02950f84eb251242ab9/68747470733a2f2f666972656261736573746f726167652e676f6f676c65617069732e636f6d2f76302f622f666c6578692d636f64696e672e61707073706f742e636f6d2f6f2f64656d706769372d35323066386435662d363364342d343435332d383832322d6462633134396165323766382e6769663f616c743d6d6564696126746f6b656e3d39316330633762322d393363332d343032392d623031312d316138373033633537333064'>
 <h1 align="center">Hi 👋, I'm Mark Williams Owusu</h1>
-<h3 align="center">A passionate full stack developer from United Kingdom</h3>
+<h3 align="center">A passionate full-stack developer from United Kingdom</h3>
 
 <img align='right' alt='coding' width='400' src='https://camo.githubusercontent.com/19db51af5f90f1b152bc0b9078f5fe97053955be5074f03f17019c70345bdcdb/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966'>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mcwi-beep&label=Profile%20views&color=0e75b6&style=flat" alt="mcwi-beep" /> </p>
 
 
-- 🔭 I’m currently working on **Company Directory App**
+- 🔭 I’m currently working on **E-Commerce(MERN)**
 
-- 🌱 I’m currently learning **React, php, JavaScript**
+- 🌱 I’m currently learning **MERN Stack, PHP, JavaScript**
 
 - 👨‍💻 All of my projects are available at [https://markowusu.co.uk](https://markowusu.co.uk)
 
@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **markwilliamsowusu@gmail.com**
 
-- ⚡ Fun fact **I am a bass player**
+- ⚡ Fun fact **I am a bass guitar player**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
